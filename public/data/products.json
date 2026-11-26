@@ -31,6 +31,14 @@
       "description": "asdasd",
       "price": "333",
       "image": "/images/logo.png"
+    },
+    {
+      "id": "2",
+      "name": "asdasd",
+      "category": "asdasd",
+      "price": "222",
+      "description": "adaasdasdas",
+      "image": "/images/logo.png"
     }
   ]
 }
