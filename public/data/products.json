@@ -23,6 +23,14 @@
       "price": "Enquire for price",
       "description": "Made specially for your ideas and occasions.",
       "image": "/images/product-3.jpg"
+    },
+    {
+      "id": "1",
+      "name": "asda",
+      "category": "asd222",
+      "description": "asdasd",
+      "price": "333",
+      "image": "/images/logo.png"
     }
   ]
 }
