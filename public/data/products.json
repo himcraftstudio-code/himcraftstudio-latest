@@ -63,6 +63,14 @@
       "price": "₹99–199",
       "description": "A delicate crochet flower keychain, made to match your occasion.",
       "image": "/images/hand.jpg"
+    },
+    {
+      "id": "22",
+      "name": "dsad",
+      "category": "Flowers",
+      "price": "213",
+      "description": "adasdad",
+      "image": "/images/logo.png"
     }
   ]
 }
