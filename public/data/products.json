@@ -39,6 +39,17 @@
       "price": "222",
       "description": "adaasdasdas",
       "image": "/images/logo.png"
+    },
+    {
+      "id": "6",
+      "name": "t34eret",
+      "category": "Bags",
+      "price": "3454435",
+      "description": "gewsgsdfg",
+      "images": [
+        "/images/logo.png"
+      ],
+      "image": "/images/logo.png"
     }
   ]
 }
