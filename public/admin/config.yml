@@ -22,12 +22,14 @@ collections:
               - label: "ID"
                 name: "id"
                 widget: "string"
+                required: false
               - label: "Product Name"
                 name: "name"
                 widget: "string"
               - label: "Category"
                 name: "category"
-                widget: "string"
+                widget: "select"
+                options: ["Flowers", "Keychains", "Bags", "Winter", "Home Décor", "Custom"]
               - label: "Price"
                 name: "price"
                 widget: "string"
@@ -37,3 +39,9 @@ collections:
               - label: "Product Image"
                 name: "image"
                 widget: "image"
+              - label: "More photos (optional)"
+                name: "images"
+                widget: "list"
+                required: false
+                hint: "Extra photos shown in the product gallery"
+                field: {label: "Photo", name: "photo", widget: "image"}

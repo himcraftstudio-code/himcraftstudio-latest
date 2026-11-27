@@ -1,55 +1,68 @@
 {
   "products": [
     {
-      "id": "sample-1",
-      "name": "Handmade Wool Bag",
-      "category": "BAGS",
+      "id": "woollen-flower-stem",
+      "name": "Woollen Flower Stem",
+      "category": "Flowers",
+      "price": "₹99–199",
+      "description": "A handmade crochet flower stem that never wilts.",
+      "image": "/images/sun.jpg"
+    },
+    {
+      "id": "strawberry-flower-keychain",
+      "name": "Strawberry & Flower Keychain",
+      "category": "Keychains",
+      "price": "₹99–199",
+      "description": "A cheerful crochet strawberry and flower charm for your keys or bag.",
+      "image": "/images/straw.jpg"
+    },
+    {
+      "id": "fruit-flower-charms",
+      "name": "Fruit & Flower Charms",
+      "category": "Keychains",
+      "price": "₹99–199",
+      "description": "Colourful crochet fruit and flower charms, made in your choice of colours.",
+      "image": "/images/fruit.jpg"
+    },
+    {
+      "id": "purple-tulip-keychain",
+      "name": "Purple Tulip Keychain",
+      "category": "Keychains",
+      "price": "₹99–199",
+      "description": "A soft crochet tulip keychain, hand-made to order.",
+      "image": "/images/tulip.jpg"
+    },
+    {
+      "id": "blue-flower-pot",
+      "name": "Blue Flower Pot",
+      "category": "Flowers",
       "price": "Enquire for price",
-      "description": "A thoughtfully handmade wool accessory.",
-      "image": "/images/product-1.jpg"
+      "description": "Hand-crocheted blue flowers in a pot, a gift that lasts.",
+      "image": "/images/blue.jpg"
     },
     {
-      "id": "sample-2",
-      "name": "Crochet Wool Flowers",
-      "category": "HOME & GIFTS",
-      "price": "Enquire for price",
-      "description": "A handmade floral piece to brighten your space.",
-      "image": "/images/product-2.jpg"
-    },
-    {
-      "id": "sample-3",
-      "name": "Custom Wool Creation",
-      "category": "CUSTOM",
-      "price": "Enquire for price",
-      "description": "Made specially for your ideas and occasions.",
-      "image": "/images/product-3.jpg"
-    },
-    {
-      "id": "1",
-      "name": "asda",
-      "category": "asd222",
-      "description": "asdasd",
-      "price": "333",
-      "image": "/images/logo.png"
-    },
-    {
-      "id": "2",
-      "name": "asdasd",
-      "category": "asdasd",
-      "price": "222",
-      "description": "adaasdasdas",
-      "image": "/images/logo.png"
-    },
-    {
-      "id": "6",
-      "name": "t34eret",
+      "id": "black-bloom-bag",
+      "name": "Black Bloom Bag",
       "category": "Bags",
-      "price": "3454435",
-      "description": "gewsgsdfg",
-      "images": [
-        "/images/logo.png"
-      ],
-      "image": "/images/logo.png"
+      "price": "Enquire for price",
+      "description": "A crochet bag with hand-made flowers. Colours can be customised.",
+      "image": "/images/bag.jpg"
+    },
+    {
+      "id": "flower-cardigan",
+      "name": "Flower Cardigan",
+      "category": "Winter",
+      "price": "Enquire for price",
+      "description": "A cosy hand-crocheted cardigan with flower details. Sizes made to order.",
+      "image": "/images/cardi.jpg"
+    },
+    {
+      "id": "rose-flower-keychain",
+      "name": "Rose Flower Keychain",
+      "category": "Keychains",
+      "price": "₹99–199",
+      "description": "A delicate crochet flower keychain, made to match your occasion.",
+      "image": "/images/hand.jpg"
     }
   ]
 }

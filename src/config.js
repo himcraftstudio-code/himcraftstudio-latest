@@ -1,4 +1,4 @@
-// Replace this with the business WhatsApp number, including country code.
-// India example: 919876543210 (do not include +, spaces, or dashes)
-export const WHATSAPP_NUMBER = '91XXXXXXXXXX';
+// Business WhatsApp number, including country code (no +, spaces or dashes).
+export const WHATSAPP_NUMBER = '917018682298';
+export const PHONE_DISPLAY = '+91 70186 82298';
 export const INSTAGRAM_URL = 'https://instagram.com/';
