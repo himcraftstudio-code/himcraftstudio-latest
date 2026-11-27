@@ -46,7 +46,10 @@
       "category": "Bags",
       "price": "Enquire for price",
       "description": "A crochet bag with hand-made flowers. Colours can be customised.",
-      "image": "/images/bag.jpg"
+      "image": "/images/bag.jpg",
+      "images": [
+        "/images/_dsc8879.jpg"
+      ]
     },
     {
       "id": "flower-cardigan",
